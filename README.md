@@ -10,17 +10,25 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create problem and build something.
 
+# GitHub Stats
 
-### Connect with me:
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=vishagautam&show_icons=true&locale=en&theme=tokyonight" alt="Vishal's GitHub Stats" />               </td>
+            <td><img src="https://streak-stats.demolab.com/?user=vishagautam&theme=tokyonight" alt="Vishal's GitHub Stats" /></td>
+        </tr>
+    </thead>
+</table>
 
-[<img align="left" alt="gautamvishal966| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vishal Gautam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vishalgautam663 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ 
 
-<br />
+## Contact Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gautamvishal966)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gautam-actor/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://vishagautam.github.io/vishalgautam/)
+
 
 <a href="https://github.com/sponsors/"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-<a href='https://rishisuresh7.github.io/portfolio/'>
-<img height='160px'  src = 'https://github-readme-stats.vercel.app/api?username=vishagautam&hide_title=true&theme=midnight-purple&count_private=true&show_icons=true&hide=issues'>
-</a>
+
