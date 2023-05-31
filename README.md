@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I love to create problem and build something.
 
 
-<a href="https://github.com/sponsors/"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
 ### Connect with me:
 
 [<img align="left" alt="gautamvishal966| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,4 +19,8 @@
 
 <br />
 
+<a href="https://github.com/sponsors/"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
+<a href='https://rishisuresh7.github.io/portfolio/'>
+<img height='160px'  src = 'https://github-readme-stats.vercel.app/api?username=vishagautam&hide_title=true&theme=midnight-purple&count_private=true&show_icons=true&hide=issues'>
+</a>
