@@ -15,7 +15,7 @@
 - 🌱 I’m currently exploring Data Science and Machine Learning.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to create problems and build something.
+- ⚡ Fun fact: Eat - Sleep - Code - Repeat.
 - 😄 When I'm not coding, you can find me immersing myself in [chess](https://lichess.org/@/Ninja200), or contributing to exciting open-source projects.
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
