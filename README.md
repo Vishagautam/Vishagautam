@@ -58,4 +58,6 @@
 
 <a href="https://github.com/sponsors/"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
+<img src="https://raw.githubusercontent.com/vishagautam/vishagautam/main/assets/octocat/ninja-octocat.gif" width="180" />
+
 
